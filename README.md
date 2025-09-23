@@ -22,17 +22,18 @@
 
   ```javascript
   const jl = {
-    nickanames: "ja" | "jl",
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
-    techCommunities: {
-                          coorganizer: "AfroPython",
-                          speaker: "Latinity",
-                          mentor: "EducaTRANSforma"
-                        },
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-  }
+  name: "JL Pangilinan",
+  nicknames: ["Ja", "Jl"],
+  hobbies: ["music", "books", "graphic design", "UI/UX", "gaming"],
+  favorites: {
+    color: "black",
+    drink: "coffee",
+    season: "rainy"
+  },
+  personality: ["hardworking", "ambitious", "creative"],
+  currently: "exploring new opportunities and working on self-growth",
+  funFact: "I always find inspiration in small details and turn them into ideas."
+}
 ```
 
 <details>
