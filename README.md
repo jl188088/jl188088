@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jayalle Pangilinan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Welcome to my GitHub Profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 <p align = "center">
@@ -6,15 +6,17 @@
 </p>
 
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&pause=1000&color=76F77F&lines=Hi%2C+I+am+Jayalle+Pangilinan;A+Computer+Science+graduate;An+spiring+Data+Scientist+;%26+AI%2FML+Engineer;I+want+to+land+one+of+these+roles+;In+this+field+to+start+my+journey+;I+am+into+music%2C+books;+graphics+design+%26+programming;I+am+hardworking%2C+fast+learner;%26+Ambitious+)" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&pause=1000&color=76F77F&lines=Hi%2C+I+am+Jayalle+Pangilinan;A+Computer+Science+graduate;An+spiring+Data+Scientist+;%26+AI%2FML+Engineer;I+want+to+land+one+of+these+roles+;In+this+field+to+start+my+journey+;I+am+into+music%2C+books;+graphics+design+%26+programming;I+am+hardworking%2C+fast+learner;%26+Ambitious" /></a>
   </div>
 </div>
+
+<img align='right' src="meee.png" width="230">
 
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
   ```javascript
-  const thai = {
-    pronouns: "she" | "her",
+  const jayalle = {
+    nickanames: "ja" | "jl",
     code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
     tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
@@ -28,35 +30,6 @@
 ```
 
 <details>
-<summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
- */
-```
-
-</div>
 
 </details>
 
@@ -244,7 +217,7 @@ If you have any questions about web development, writing mistake-free documentat
 <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
 
-------
-Credit: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 18/01/2024
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
