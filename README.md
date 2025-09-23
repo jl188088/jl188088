@@ -24,7 +24,7 @@
   const jl = {
   name: "JL Pangilinan",
   nicknames: ["Ja", "Jl"],
-  hobbies: ["music", "books", "graphic design", "UI/UX", "gaming" "programming" "framwork design"],
+  hobbies: ["music", "books", "graphic design", "UI/UX","programming", "framwork design"],
   favorites: {
     color: "black",
     drink: "coffee",
