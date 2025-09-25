@@ -1,14 +1,20 @@
+<h2>Welcome to my GitHub Profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p align = "center">
+	<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt = "Red Line"/>
+</p>
+
 <p align="center">
-  <img src="under-construction.gif" alt="Under Construction" />
+  <img 
+    src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg3NzM3NjcsIm5iZiI6MTc1ODc3MzQ2NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDA0MTEwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1NDEyMmJkZGQ4NTM4YWM1ZTE5YTg3YmNmNDQxYjgyZjUwOTVmYjM4MWZjNWZmODg2ZTM2NzUwNzlhYjM3NWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1v2LCyH09aKQni9HJBRGL0r0a44GZC0eEd2b5egTIOs" 
+    alt="Header Banner" 
+    width="1000" 
+    height="250"/>
 </p>
 
 
-
-<h2>Welcome to my GitHub Profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt = "Red Line"/>
 </p>
 
   <div align=center>
@@ -16,25 +22,16 @@
   </div>
 </div>
 
-<img align='right' src="meee.png" width="230">
+<img align="right" src="rb.gif" width="220" height="220">
 
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
   ```javascript
   const jl = {
-  name: "JL Pangilinan",
+  name: "Jayalle Pangilinan",
   nicknames: ["Ja", "Jl"],
-  hobbies: ["music", "books", "graphics design", "framwork design",
-            "programming", "ui/ux"],
-  favorites: {
-    color: "black",
-    drink: "coffee",
-    season: "rainy"
-  },
-  personality: ["hardworking", "ambitious", "creative"],
-  currently: "exploring new opportunities and working on self-growth",
-  funFact: "I always find inspiration in small details and turn them into ideas."
-}
+  hobbiesInterests: ["music", "books", "graphic design", "system design", "programming", "ui/ux"]
+};
 ```
 
 <details>
@@ -227,5 +224,9 @@ If you have any questions about web development, writing mistake-free documentat
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" 
+    alt="Footer Banner" 
+    width="800"/>
 </p>
+
