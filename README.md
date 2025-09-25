@@ -18,7 +18,7 @@
 </p>
 
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&pause=1000&color=76F77F&lines=Hi%2C+I+am+Jayalle+Pangilinan;A+Computer+Science+graduate;An+spiring+Data+Scientist+;%26+AI%2FML+Engineer;I+want+to+land+one+of+these+roles+;In+this+field+to+start+my+journey+;I+am+into+music%2C+books;+graphics+design+%26+programming;I+am+hardworking%2C+fast+learner;%26+Ambitious" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7F773&width=435&lines=Hi%2C+I+am+Jayalle+Pangilinan.;I+am+a+Computer+Science+grad.+;Aspiring+Data+Scientist%2C+AI%2FML+Eng.+;Seeking+a+role+to+start+my+path.;I+love+music%2C+books%2C+design%2C+code.;I+am+fast+learner+%26+ambitious." /></a>
   </div>
 </div>
 
@@ -240,6 +240,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
+<h2></h2>
 
 </div>
 
