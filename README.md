@@ -126,12 +126,10 @@
       <br>
       <br>
       <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
       <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Networking & Deployment</kbd>
