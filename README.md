@@ -1,3 +1,4 @@
+
 <h2>Welcome to my GitHub Profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align = "center">
@@ -68,8 +69,7 @@
 </details>
 </details>
 
-<details>
-<summary>Tools</summary>
+## 🛠 &nbsp;Tech Stack
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -98,7 +98,7 @@
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="android" title="SwiftUI"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
