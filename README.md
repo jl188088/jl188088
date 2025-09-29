@@ -54,7 +54,7 @@
  * @param {string} interests - AI, Distributed Systems, Data Science, System Design, & Problem-Solving.
  * @param {string} hobbies - Reading, Gaming, Music Production, Playing Instruments, & Graphics Design.
  * @param {string} education - Bachelor of Science in Computer Science, Technological Institute of the Philippines, Manila.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
  * @param {string} strength - Fast learner, adaptability, quick problem-solving, and conceptual thinking
  * @param {string} weakness - Tends to feel overwhelmed at times, and sometimes overthinks decisions
  *
@@ -76,8 +76,9 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="cpp" title="java"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>
+	 <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="ts" title="Typescript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
       <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
     </kbd>
@@ -88,17 +89,13 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="GraphQL" title="GraphQL"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg" alt="fast" title="FAST API"/>
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="android" title="SwiftUI"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" alt="android" title="Native Android"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -107,17 +104,17 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
+	 <img width="30px" src="https://d3oofn3y8h5efg.cloudfront.net/assets/images/Next_js_logo.svg?w=750&q=75" alt="nextjs" title="Nextjs"/>
+	 <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-plain-wordmark.svg" alt="angular" title="Angular"/>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" title="Memcached"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
+	<img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" title="Firebase"/>
     </kbd>
     <br>
     <br>
@@ -125,11 +122,15 @@
       <kbd>Automation, Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
+      <img width="30" src="https://cdn.brandfetch.io/id67OJQ11a/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="bot penguin" title="Bot Penguin"/>
+      <img width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" title="Tensorflow"/>
+	<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" alt="weka" title="Weka"/>
+	<img width="30" src="https://mma.prnewswire.com/media/258054/rapidminer_logo.jpg" alt="rapid miner" title="Rapid Miner"/>
+	<img width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" alt="matlab" title="Matlab"/>
+	<img width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
+    <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Networking & Deployment</kbd>
@@ -139,11 +140,8 @@
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <kbd>
@@ -151,17 +149,19 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
     </kbd>
+	  <br>
+      <br>
     <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
+      <img width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" title="isual Studio"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg"  alt="android studio" title="Android Studio"/>
+      <img width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-plain-wordmark.svg" alt="pycharm" title="Pycharm"/>
+	 <img width="30" src="https://logowik.com/content/uploads/images/eclipse-ide-icon1720887958.logowik.com.webp" alt="=eclipse" title="Eclipse"/>
+      <img width="30px" src="https://www.seekpng.com/png/full/410-4104604_here-is-how-to-add-a-shortcut-of.png"  alt="jupyter" title="Jupyter"/>
   </kbd>
      <kbd>
       <kbd>Game Development</kbd>
@@ -169,17 +169,27 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
     </kbd>
+	  <kbd>
+      <kbd>Creative Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop"/>
+	  <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/premierepro/premierepro-original.svg" alt="premiere" title="Premiere"/>
+	  <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-original.svg" alt="ae" title="After Effects"/>
+	  <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
+	<img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
+    </kbd>
   </p>
 </div>
 </details>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
-</details>
+## 📊 &nbsp;Github Stats
+<div>
+ 
+<p align="center">
+  <img src="" alt="Contribution Graph" />
+</p>
+
 
 <details>
   <summary>Open Source Contributions</summary>
