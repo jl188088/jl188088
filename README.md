@@ -216,8 +216,11 @@ If you’d like to connect or have opportunities aligned with this role, feel fr
 </div>
 
 <div align=center>
- <a href="www.linkedin.com/in/jayalle-pangilinan" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:jayallep@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+ <a href="https://www.linkedin.com/in/jayalle-pangilinan-8138a024a/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jayallep@gmail.com&su=Hi%20Jayalle,%20nice%20to%20meet%20you!" target="_blank">
+  <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+</a>
+
 </div>
 
 
