@@ -4,9 +4,6 @@
 <p align = "center">
 	<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt = "Red Line"/>
 </p>
-
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bce56908-027f-4727-abc7-957013588e11" />
-
 <p align="center">
   <img 
     src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg3NzM3NjcsIm5iZiI6MTc1ODc3MzQ2NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDA0MTEwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1NDEyMmJkZGQ4NTM4YWM1ZTE5YTg3YmNmNDQxYjgyZjUwOTVmYjM4MWZjNWZmODg2ZTM2NzUwNzlhYjM3NWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1v2LCyH09aKQni9HJBRGL0r0a44GZC0eEd2b5egTIOs" 
