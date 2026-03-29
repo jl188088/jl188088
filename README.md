@@ -7,13 +7,15 @@
     alt="Header Banner" 
     width="1000" 
     height="250"/>
-
+	
+<p align = "center">
+	<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt = "Red Line"/>
+</p>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7F773&width=435&lines=Hi%2C+I+am+Jayalle+Pangilinan.;I+am+a+Computer+Science+grad.+;Aspiring+Data+Scientist%2C+AI%2FML+Eng.+;Seeking+a+role+to+start+my+path.;I+love+music%2C+books%2C+design%2C+code.;I+am+fast+learner+%26+ambitious." /></a>
   </div>
 </div>
 </p>
-
 <p align = "center">
 	<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt = "Red Line"/>
 </p>
